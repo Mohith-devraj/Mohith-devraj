@@ -1,6 +1,5 @@
 # 💫 About Me:
-[9:49 pm, 23/10/2025] mohith devraj: > ”
-[9:58 pm, 23/10/2025] mohith devraj: 👋 Hi, I'm Mohith!  
+👋 Hi, I'm Mohith!  
 🎓 I'm a 1st-year ECE student at Adichunchanagiri University.  
 💻 Currently learning Python and exploring how software and hardware come together in real-world applications.  
 🚀 I’m passionate about coding, electronics, and building innovative projects that make learning fun.  
